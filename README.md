@@ -7,3 +7,4 @@ A repository containing custom React.js hooks.
 
 - [`useToggle`](https://codesandbox.io/s/bold-kirch-sji4m)
 - [`useOnline`](https://codesandbox.io/s/blazing-cdn-5w0e3)
+- [`useLocalStorage`](https://codesandbox.io/s/xenodochial-chatelet-ww02b)
