@@ -1,0 +1,31 @@
+{
+  "name": "use-hooks",
+  "version": "1.0.0",
+  "description": "A respository of custom React.js hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golu360/React-Custom-Hooks.git"
+  },
+  "keywords": [
+    "react",
+    "custom",
+    "hooks",
+    "react",
+    "hooks",
+    "open",
+    "source"
+  ],
+  "author": "golu360",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golu360/React-Custom-Hooks/issues"
+  },
+  "homepage": "https://github.com/golu360/React-Custom-Hooks#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
