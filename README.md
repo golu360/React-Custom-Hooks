@@ -11,3 +11,4 @@ A repository containing custom React.js hooks.
 - [`useLocalStorage`](https://codesandbox.io/s/xenodochial-chatelet-ww02b)
 - [`useHover`](https://codesandbox.io/s/usehover-0d15s)
 - [`useDebounce`](https://codesandbox.io/s/jolly-torvalds-ubk6p)
+- [`useOnScreen`](https://codesandbox.io/s/vigorous-carlos-mshe7)
